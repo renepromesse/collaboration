@@ -10,3 +10,6 @@ how to check branches?
 how to create a new branch?
 - git branch branchName
 - ex: git branch tast1
+how to change a branch?
+- git checkout branchName
+- ex: git checkout tast1
