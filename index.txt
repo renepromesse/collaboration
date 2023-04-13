@@ -1,1 +1,12 @@
 Hello today session is online
+
+
+technical terms
+---------------
+- branches: 
+    a container that holds some content(files)
+how to check branches?
+- git branch
+how to create a new branch?
+- git branch branchName
+- ex: git branch tast1
